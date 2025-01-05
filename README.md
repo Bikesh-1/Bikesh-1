@@ -17,7 +17,7 @@
 - [TaskChron](https://bikesh-1.github.io/TaskChron1/)-Task MAnagement web application
 
 ### 📊 GitHub Stats
-![Bikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikesh-1&show_icons=true&theme=radical)
+![Bikesh's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=bikesh-1&theme=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikesh-1&layout=compact&theme=radical)
 
