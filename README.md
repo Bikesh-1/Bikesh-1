@@ -2,12 +2,19 @@
 🚀 First-year CSE student at Sir M. Visvesvaraya Institute of Technology.  
 💡 Interested in Web Development, UI/UX, and Entrepreneurship.  
 🌐 My website: [bikesh-1.github.io](https://bikesh-1.github.io/Bikesh-Kumar/)  
+
 ### 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Locomotive.js](https://img.shields.io/badge/Locomotive.js-%23EF4F4F.svg?style=for-the-badge&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logoColor=white)
+![Lenis](https://img.shields.io/badge/Lenis-%23444444.svg?style=for-the-badge&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white)
+
 
 ### 💼 Projects
 - [Sundown](https://bikesh-1.github.io/Sundown-Studio/).
