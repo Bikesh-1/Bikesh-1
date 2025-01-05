@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Bikesh Kumar!
+<img src="https://www.ecellsmvit.in/webp/Bikesh.webp" alt="Bikesh Kumar" width="200" style="border-radius: 50%;">
 🚀 First-year CSE student at Sir M. Visvesvaraya Institute of Technology.  
 💡 Interested in Web Development, UI/UX, and Entrepreneurship.  
 🌐 My website: [bikesh-1.github.io](https://bikesh-1.github.io/Bikesh-Kumar/)  
