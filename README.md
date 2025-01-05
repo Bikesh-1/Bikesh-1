@@ -1,3 +1,14 @@
+<img src="https://github-readme-stats.vercel.app/api?username=bikesh-1&show_icons=true&theme=dark" id="github-stats">
+<button onclick="toggleTheme()">Toggle Theme</button>
+<script>
+  function toggleTheme() {
+    const stats = document.getElementById('github-stats');
+    stats.src = stats.src.includes('dark') 
+      ? stats.src.replace('dark', 'light') 
+      : stats.src.replace('light', 'dark');
+  }
+</script>
+
 ### Hi there 👋, I'm Bikesh Kumar!
 <img src="https://www.ecellsmvit.in/webp/Bikesh.webp" alt="Bikesh Kumar" width="200" style="border-radius:50%;">
 🚀 First-year CSE student at Sir M. Visvesvaraya Institute of Technology.  
