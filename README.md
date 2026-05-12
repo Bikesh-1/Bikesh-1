@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I'm Bikesh Kumar!
-🚀 Second-year CSE student at Sir M. Visvesvaraya Institute of Technology.  
+🚀 Third-year CSE student at Sir M. Visvesvaraya Institute of Technology.  
 💡 Interested in Web Development, UI/UX, and Entrepreneurship.  
 🌐 My website: [bikesh-1.github.io](https://bikesh.vercel.app/)  
 
@@ -24,6 +24,8 @@
 - [E-CELL SMVIT](http://www.ecellsmvit.in/) - My College E-CELL Club offical website
 - [emjoy](https://bikesh-1.github.io/emjoy/)
 - [TaskChron](https://bikesh-1.github.io/TaskChron1/)-Task MAnagement web application
+- [E-ECELL Startup Mela](http://startupmela-ecellsmvit.in/)-E-CELL Startup Mela Event Management
+- 
 
 ### 📊 GitHub Stats
 ![Bikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikesh-1&show_icons=true&theme=radical)
