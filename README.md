@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Bikesh Kumar!
 🚀 Second-year CSE student at Sir M. Visvesvaraya Institute of Technology.  
 💡 Interested in Web Development, UI/UX, and Entrepreneurship.  
-🌐 My website: [bikesh-1.github.io](https://bikesh-1.github.io/Bikesh-Kumar/)  
+🌐 My website: [bikesh-1.github.io](https://bikesh.vercel.app/)  
 
 ### 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
