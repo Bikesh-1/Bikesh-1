@@ -25,7 +25,7 @@
 - [emjoy](https://bikesh-1.github.io/emjoy/)
 - [TaskChron](https://bikesh-1.github.io/TaskChron1/)-Task MAnagement web application
 - [E-ECELL Startup Mela](http://startupmela-ecellsmvit.in/)-E-CELL Startup Mela Event Management
-- 
+- [E-CELL Recruitment Page](https://www.ecellsmvit.in/Recruitment)- E-CELL Recruitment Page build using clerk and appwrite
 
 ### 📊 GitHub Stats
 ![Bikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikesh-1&show_icons=true&theme=radical)
